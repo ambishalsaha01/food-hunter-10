@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "name": "Shahi biryani",
+        "price": "380",
+        "description": "How does one introduce something so brilliant, so delicious, so filling.....something that gives you such an enriching experience. Perfect soul food.",
+        "img": "https://a8g4i9g5y.ssl.hwcdn.net/files/styles/food_image/public/image/ce/cc/10466-shahi-biryani.jpg"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "name": "Morog polao",
+        "price": "190",
+        "description": "This Bengali Chicken Rice called Morog Polao is not only an incredible one-pot wonder but also a crowd pleaser!  A great inclusion on the holiday feasting table or for your weekend special lunch or dinner",
+        "img": "https://kitchenofdebjani.com/wp-content/uploads/2019/12/Morog-Pulao.jpg"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
+        "name": "Bhuna khichuri",
         "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "description": "Bhuna khichuri recipe is an exemplary moong dal khichuri which is immensely popular in Bangladesh, West Bengal and few other parts of north east India. The texture of bhuna khichuri is completely different from other khichuri recipes. ",
+        "img": "https://bangladeshifoodcatering.com.au/wp-content/uploads/2020/05/Beef-Bhuna-Khichuri.jpg"
     }
 ]
