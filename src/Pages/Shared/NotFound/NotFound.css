@@ -1,0 +1,8 @@
+.notfound-container {
+    text-align: center;
+}
+.notfound-container img{
+    margin: 30px auto;
+    width: 550px;
+    object-fit: cover;
+}
