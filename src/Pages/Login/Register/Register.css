@@ -10,3 +10,20 @@
     font-size: 18px;
     margin-bottom: 15px;
 }
+
+.register-form{
+    border: 1px solid rgba(209, 201, 201, 0.652);
+    border-radius: 15px;
+    padding: 35px 20px;
+    margin: 100px auto;
+}
+
+.register-form .register-btn{
+    border-radius: 15px;
+    border: none;
+}
+.register-form input{
+    border-radius: 15px;
+    border: 1px solid rgba(209, 201, 201, 0.652);
+}
+
